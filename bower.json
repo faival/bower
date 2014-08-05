@@ -1,20 +1,25 @@
 {
-  "name": "frontend-first",
+  "name": "frontend",
   "version": "0.0.0",
   "authors": [
     "pablomolina <pablo.molina@netcentric.biz>"
   ],
   "description": "script to install all necessary depencencies for frontend boilerplate",
   "keywords": [
-    "frontend-build"
+    "frontend"
   ],
   "license": "MIT",
-  "private": true,
   "ignore": [
     "**/.*",
     "node_modules",
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "gulp": "~3.8.7",
+    "gulp-ruby-sass": "sindresorhus/gulp-ruby-sass#~0.7.1",
+    "hologram": "trulia/hologram#~1.2.0",
+    "gulp-autoprefixer": "Metrime/gulp-autoprefixer"
+  }
 }
