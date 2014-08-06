@@ -22,5 +22,8 @@
     "hologram": "trulia/hologram#~1.2.0",
     "gulp-autoprefixer": "Metrime/gulp-autoprefixer",
     "sass": "sass/sass#~3.3.14"
+  },
+  "devDependencies": {
+    "jquery-1.10.2": "http://code.jquery.com/jquery-1.10.2.js"
   }
 }
