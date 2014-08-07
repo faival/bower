@@ -27,6 +27,7 @@
     "breakpoint-sass": "~2.5.0"
   },
   "devDependencies": {
-    "breakpoint-sass": "~2.5.0"
+    "breakpoint-sass": "~2.5.0",
+    "gulp-jshint": "spenceralger/gulp-jshint#~1.5.1"
   }
 }
