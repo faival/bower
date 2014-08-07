@@ -24,7 +24,6 @@
     "sass": "sass/sass#~3.3.14",
     "susy": "ericam/susy#2.1.3",
     "sass-globbing": "chriseppstein/sass-globbing#1.1.1",
-    "breakpoint-sass": "~2.5.0",
-    "gulp-jshint": "spenceralger/gulp-jshint#~1.5.1"
+    "breakpoint-sass": "~2.5.0"
   }
 }
