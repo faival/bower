@@ -16,6 +16,7 @@
     "test",
     "tests"
   ],
+  "private": true,
   "dependencies": {
     "gulp": "~3.8.7",
     "gulp-ruby-sass": "sindresorhus/gulp-ruby-sass#~0.7.1",
