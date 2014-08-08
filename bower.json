@@ -24,6 +24,7 @@
     "sass": "sass/sass#~3.3.14",
     "susy": "ericam/susy#2.1.3",
     "sass-globbing": "chriseppstein/sass-globbing#1.1.1",
-    "breakpoint-sass": "~2.5.0"
+    "breakpoint-sass": "~2.5.0",
+    "frontend-boilerplate": "ssh://git@source.int.netcentric.biz:7999/frontend/frontend-boilerplate.git#develop"
   }
 }
